@@ -39,7 +39,7 @@ header nav ul li a {
 }
 
 .hero {
-    background-image: url("../assets/images/hero-image.png");
+    background-image: url("./assets/images/hero-image.png");
     height: 700px;
     background-size: cover;
     background-position: center;
@@ -74,7 +74,7 @@ header nav ul li a {
 
 .grid-container {
     display: grid;
-    grid-template-columns: repeat(7, 1fr);
+    grid-template-columns: repeat(8, 1fr);
     grid-template-rows: repeat(6, 1fr);
     grid-gap: 10px;
   }
@@ -91,20 +91,20 @@ header nav ul li a {
 
   .item-1 {
     grid-column: 1 / span 4;
-    grid-row: :  1 / span 7;
+    grid-row: 1 / span 7;
   }
 
   .item-2 {
     grid-column: 5 / span 3;
-    grid-row: :  1 / span 2;
+    grid-row: 1 / span 2;
   }
 
   .item-3 {
     grid-column: 5 / span 3;
-    grid-row: 3 / span 2:
+    grid-row: 3 / span 2;
   }
 
   .item-4 {
     grid-column: 5 / span 3;
-    grid-row: 5 / span 2:
+    grid-row: 5 / span 2;
   }

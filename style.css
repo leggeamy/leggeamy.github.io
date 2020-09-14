@@ -141,7 +141,7 @@ header nav ul li a:hover {
     background-size: cover;
     background-position: top;
     grid-column: 2/2;
-    grid-row: 1 / 2;
+    grid-row: 1 / 3;
     align-items: stretch;
   }
 

@@ -17,6 +17,10 @@ a {
     align-items: center;
 }
 
+.navbar {
+    background-color: #dad4d7; 
+}
+
 /*<header styles */
 header {
     padding: 20px 35px;

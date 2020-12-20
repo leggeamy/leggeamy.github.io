@@ -63,17 +63,6 @@ a {
 
         /*<hero styles */
 
-        /* .hero {
-            background-image: url("./assets/images/hero-image.png");
-            background-size: cover;
-            background-position: center;
-            display: flex;
-            justify-content: center;
-            flex-wrap: wrap;
-            align-items: flex-start;
-            height: 700px;
-        } */
-
 .hero {
     position: relative;
 }

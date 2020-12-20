@@ -19,27 +19,29 @@ a {
 
 .navbar {
     background-color: #dad4d7; 
-}
-
-/*<header styles */
-header {
-    padding: 20px 35px;
-    display: flex;
-    justify-content: space-between;
-    flex-wrap: wrap;
-}
-
-header h1 {
     color: #48403d;
-    font-size: 1.55vw;
-    font-weight: lighter;
-    margin: 7px;
-    justify-content: flex-start;
+    font-family: Bauer Bodoni;
 }
 
-header nav {
-    margin: 7px 0;
-}
+        /*<header styles */
+        /* header {
+            padding: 20px 35px;
+            display: flex;
+            justify-content: space-between;
+            flex-wrap: wrap;
+        }
+
+        header h1 {
+            color: #48403d;
+            font-size: 1.55vw;
+            font-weight: lighter;
+            margin: 7px;
+            justify-content: flex-start;
+        }
+
+        header nav {
+            margin: 7px 0;
+        } */
 
     /* header nav ul {
         display: flex;
@@ -70,6 +72,10 @@ header nav {
     flex-wrap: wrap;
     align-items: flex-start;
     height: 700px;
+}
+
+.overlay {
+    background-image: url("/assets/images/amy_frances_logo.png");
 }
 
 /*<about me styles */

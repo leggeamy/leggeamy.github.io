@@ -1,7 +1,6 @@
 * {
     margin: 0;
     padding: 0;
-    box-sizing: border-box;
 }
 
 body {
@@ -23,48 +22,6 @@ a {
     font-family: Bauer Bodoni;
 }
 
-        /*<header styles */
-        /* header {
-            padding: 20px 35px;
-            display: flex;
-            justify-content: space-between;
-            flex-wrap: wrap;
-        }
-
-        header h1 {
-            color: #48403d;
-            font-size: 1.55vw;
-            font-weight: lighter;
-            margin: 7px;
-            justify-content: flex-start;
-        }
-
-        header nav {
-            margin: 7px 0;
-        } */
-
-    /* header nav ul {
-        display: flex;
-        flex-wrap: wrap;
-        justify-content: space-between;
-        align-items: center;
-        list-style: none;
-    }
-
-    header nav ul li a {
-        padding: 10px 15px;
-        font-weight: lighter;
-        font-size: 1.55vw;
-    }
-
-    header nav ul li a:hover {
-        background-color:#ffffff;
-    } */
-
-        /*<hero styles */
-
-
-
 
 /*<about me styles */
 
@@ -78,21 +35,9 @@ h1 {
     border-top: 3px solid #48403d;
 }
 
-.grid-photo {
-    justify-content: center;
-}
-
-.grid-paragraph {
-    
-    justify-content: center;
-    font-size: 1.25vw;
-}
 
 /*<my work styles */
 
-#my-work {
-
-}
 
 .card {
     background-color: #dad4d7;
@@ -101,21 +46,7 @@ h1 {
 
 /*<contact me styles */
 
-.contact-me-grid-container {
-    align-items: baseline;
-}
 
-.contact-me-grid-container h1 {
-    font-size: 7vw;
-    justify-content: center;
-    padding-left: 25px;
-    padding-right: 25px;
-    border-top: 3px solid #48403d;
-}
-
-.contact-me-grid-container a:hover {
-    background-color:#ffffff;
-}
 
 /* MEDIA QUERY FOR SMALLER DESKTOP SCREENS AND SMALLER */
 @media screen and (max-width: 980px) {
